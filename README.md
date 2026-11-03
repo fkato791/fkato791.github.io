@@ -1,6 +1,6 @@
 # Fumiya Kato — Personal website
 
-A lightweight, bilingual personal website for GitHub Pages. Original pixel illustrations, English / Japanese content, light / dark themes, and a printable CV. No build tools or external services are required.
+A lightweight, bilingual personal website for GitHub Pages. Original pixel illustrations, English / Japanese content, and light / dark themes. No build tools or external services are required.
 
 ## Publish on GitHub Pages
 
@@ -20,7 +20,6 @@ If you use a different repository name, your address will be `https://fkato791.g
 - 個人のメールアドレス、電話番号、家族情報、社内資料、プロジェクトの費用や工期は掲載していません。
 - 外部リンクは GitHub プロフィールと note です。SoundScript / HELIOS の公開URLは未設定のため、紹介文のみ掲載しています。
 - プロフィール写真を加える場合は、写真ファイルを追加し、About ページに配置できます。現在のイラストはすべて独自にコードで描画しています。
-- CV の「Print / Save as PDF」で、現在の言語の略歴を印刷・PDF保存できます。
 
 ## 構成
 
@@ -31,7 +30,6 @@ If you use a different repository name, your address will be `https://fkato791.g
 | Projects | SoundScript / HELIOS |
 | Research & Learning | 国際建設・省エネ建築・建設AI |
 | Writing & Travels | note の記事・RV旅の紹介 |
-| CV | 学歴・職歴・専門分野の略歴 |
 
 ## 更新
 
